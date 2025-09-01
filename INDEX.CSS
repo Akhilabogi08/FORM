@@ -1,0 +1,19 @@
+fieldset{
+    border: 5px solid black;
+    width: 50%;
+    background-color: antiquewhite;
+    color: blueviolet;
+    cursor: grabbing;
+   margin-left: 290px;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+}
+button:hover{
+    width: fit-content;
+    letter-spacing: 10px;
+    background-color: gold;
+    color: brown;
+    cursor: all-scroll;
+}
