@@ -4,7 +4,6 @@ fieldset{
     background-color: antiquewhite;
     color: blueviolet;
     cursor: grabbing;
-   margin-left: 290px;
 }
 button{
     background-color: blue;
@@ -16,4 +15,5 @@ button:hover{
     background-color: gold;
     color: brown;
     cursor: all-scroll;
+
 }
